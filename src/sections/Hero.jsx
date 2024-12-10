@@ -23,8 +23,8 @@ function Hero() {
             Seamless Payments, Limitless Possiblilites.
           </h1>
           <p className="text-white text-lg text-center max-w-[540px] mx-auto mt-5">
-            Lorem ipsum odor amet, consectetuer adipiscing elit. Molestie magna
-            diam vehicula erat; maecenas vestibulum commodo.{" "}
+            Designed for the next generation, BriskPay makes managing your money
+            effortless and stress free maecenas vestibulum commodo.
           </p>
           <button className="bg-black text-white px-4 py-2 rounded-[30px] font-regular inline-flex justify-center items-center tracking-tight mt-5 z-10">
             Get the app
