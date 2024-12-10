@@ -13,7 +13,7 @@ function Payments() {
   return (
     <section className="py-16 bg-[linear-gradient(to_bottom,#F6F6F6,#FFFFFF,#D4EBF8,#68A4E2,#3478C1)]">
       <motion.div
-        className="container flex flex-col items-center"
+        className="brisk-container flex flex-col items-center"
         initial={{ opacity: 0 }}
         transition={{ duration: 3 }}
         whileInView={{ opacity: 1 }}

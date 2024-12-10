@@ -6,7 +6,7 @@ import { motion } from "motion/react";
 export default function Welcome() {
   return (
     <section className="pb-16 lg:px-10 bg-[#F6F6F6]">
-      <div className="container">
+      <div className="brisk-container">
         <div className="flex flex-col items-center justify-center">
           <motion.div
             className="md:flex justify-between gap-20 items-center"

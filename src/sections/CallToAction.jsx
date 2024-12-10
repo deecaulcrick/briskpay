@@ -1,7 +1,7 @@
 function CallToAction() {
   return (
     <section className="py-16 bg-black text-white">
-      <div className="container flex flex-col items-center">
+      <div className="brisk-container flex flex-col items-center">
         <div className="max-w-[540px]">
           <div className="text-[#68A4E2] text-center">
             Unlock the Future of Payments

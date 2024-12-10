@@ -17,7 +17,7 @@ function Hero() {
       ref={sectionRef}
       className="mt-0 pt-20 pb-20 bg-[linear-gradient(to_bottom,#3478C1,#68A4E2_43%,#D4EBF8_79%,#F6F6F6)] "
     >
-      <div className="container">
+      <div className="brisk-container">
         <div className="flex flex-col items-center justify-center">
           <h1 className="text-white  text-4xl md:text-8xl tracking-tight text-center">
             Seamless Payments, Limitless Possiblilites.
