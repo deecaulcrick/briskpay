@@ -5,7 +5,7 @@ import Logo from "../assets/logo.svg";
 
 export default function Header() {
   return (
-    <div className="sticky top-0 z-20 backdrop-blur-sm">
+    <div className="sticky top-0 z-20 backdrop-blur-sm " >
       <div className="bg-black text-white py-3 flex justify-center items-center gap-2 tracking-tight">
         <p className="text-[#ddd] hidden md:block">
           The fastest way to send money internationally.
@@ -15,7 +15,9 @@ export default function Header() {
           <ArrowIcon />
         </div>
       </div>
-      <div className=" py-4 container">
+
+      
+      <div className=" py-4 brisk-container">
         <div className="flex justify-between items-center w-[100%]">
           <Logo />
           <MenuIcon className="md:hidden" />

@@ -40,7 +40,7 @@ const footer = [
 function Footer() {
   return (
     <footer className="pt-6 bg-black text-white">
-      <div className="container">
+      <div className="brisk-container">
         <div className=" border-t border-t-[#2F2F2F] py-16 md:grid md:grid-cols-6 md:gap-16 md:items-start md:justify-center">
           <div className="md:col-span-3 lg:col-span-2">
             <Logo />

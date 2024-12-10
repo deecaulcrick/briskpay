@@ -12,9 +12,6 @@ module.exports = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
-      container: {
-        padding: "2.5rem",
-      },
     },
   },
   plugins: [],

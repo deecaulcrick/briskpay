@@ -37,7 +37,7 @@ const features = [
 export default function Feature() {
   return (
     <section className="py-16 bg-[#F6F6F6]">
-      <div className="container">
+      <div className="brisk-container">
         <motion.div
           className="flex flex-col items-center justify-center"
           initial={{ opacity: 0 }}

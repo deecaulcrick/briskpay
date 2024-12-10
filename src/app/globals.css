@@ -46,3 +46,9 @@ body {
   background: var(--background);
   font-family: "Helvetica Neue", sans-serif;
 }
+
+@layer components {
+  .brisk-container {
+    @apply w-[90%] lg:w-[85%] max-w-[1550px] mx-auto;
+  }
+}
