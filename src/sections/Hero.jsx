@@ -1,6 +1,6 @@
 "use client";
 import Image from "next/image";
-import iphoneImage from "../assets/iphone.png";
+import iphoneImage from "../assets/iPhone.png";
 import { motion, useScroll, useTransform } from "motion/react";
 import { useRef } from "react";
 function Hero() {
